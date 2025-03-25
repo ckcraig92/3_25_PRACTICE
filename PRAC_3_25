@@ -1,0 +1,20 @@
+public class Main {
+
+    static void main(String[] args) {
+
+
+
+//Math m = new Math();
+int result = Math.multiply(p1:4,p2:50);
+System.out.println(result);
+
+}
+}
+
+class Math {
+    static int multiply(int p1, int p2)
+    {
+        return p1*p2;
+
+    }
+}
