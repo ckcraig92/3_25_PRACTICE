@@ -18,3 +18,15 @@ class Math {
 
     }
 }
+
+class Math {
+    final float PI = 3.14f;
+    static int multiply(int p1, int p2)
+    {
+        return p1*p2;
+
+    }
+    void printPI(){
+        System.out.println(PI);
+    }
+}
